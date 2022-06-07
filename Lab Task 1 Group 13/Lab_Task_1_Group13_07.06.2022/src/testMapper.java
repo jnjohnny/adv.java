@@ -1,0 +1,5 @@
+
+@Mapper
+public interface testMapper {
+
+}
